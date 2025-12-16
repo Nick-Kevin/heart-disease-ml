@@ -1,5 +1,6 @@
 """
-Feature engineering involves selecting and creating relevant features that can improve the model's performance
+    Feature engineering involves selecting and creating relevant features
+    that can improve the model's performance
 """
 
 import pandas as pd
